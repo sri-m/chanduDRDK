@@ -1,6 +1,7 @@
 source 'https://rubygems.org'
 #chandu code
 #srinivas pulled from github
+#pushed into srinipkl github repo
 gem 'cucumber'
 gem 'rspec'
 gem 'rake'
